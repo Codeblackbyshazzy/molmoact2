@@ -100,9 +100,9 @@ MolmoAct2 supports out-of-the-box deployment on three robot embodiments:
 - **Bimanual YAMs**
 - **Franka DROID setup**
 
-### SO-100 Setup
+### SO-100/101 Setup
 
-For the best performance, we recommend using an **SO-100 with the standard wrist configuration** and a **third-person camera**.
+For the best performance, we recommend using an **SO-100 with the standard wrist configuration** and a **third-person camera**. Here is an open implementation by Irene Grace. [Code](https://github.com/irenegracekp/molmoact2-so101)
 
 ### Bimanual YAM Setup
 
